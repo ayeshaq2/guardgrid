@@ -26,9 +26,11 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 ### Frontend
 
 * **React + TypeScript (Vite)**
+* **Supabase (Auth, DB, Storage, Edge Functions)**
+* **Python (Sensor Firmware)**
+* **Twilio/SMS-ready architecture**
 * **Leaflet.js** for interactive maps
 * **Nominatim (OpenStreetMap Geocoding API)** for location lookup
-* **ShadCN UI** component system
 * **TailwindCSS**
 
 ### Backend / Infrastructure**
