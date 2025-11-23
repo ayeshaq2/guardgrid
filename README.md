@@ -7,7 +7,7 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 
 ---
 
-## ** Features**
+##  Features
 
 * **IoT Sensor Monitoring** — Temperature & air-quality sensors detect abnormal heat/smoke using on-device Python microcontroller code.
 * **Instant SMS Alerts** — Automatically triggers alerts when thresholds indicating potential wildfires are reached.
@@ -21,9 +21,9 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 
 ---
 
-## ** Tech Stack**
+##  Tech Stack
 
-### **Frontend**
+### Frontend
 
 * **React + TypeScript (Vite)**
 * **Leaflet.js** for interactive maps
@@ -31,7 +31,7 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 * **ShadCN UI** component system
 * **TailwindCSS**
 
-### **Backend / Infrastructure**
+### Backend / Infrastructure**
 
 * **Supabase**
 
@@ -45,7 +45,7 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 
 * **(Future)** OpenRouter / Vision APIs for image-based fire verification
 
-### **IoT Hardware**
+### IoT Hardware
 
 * **Python microcontroller**
 * Connected temperature + air-quality sensors
@@ -54,7 +54,7 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 
 ---
 
-## ** Getting Started**
+##  Getting Started
 
 1. Clone the repository.
 2. Add your Supabase credentials to a `.env` file:
@@ -76,7 +76,7 @@ It provides fast, trusted, and accessible early-warning capabilities for wildfir
 
 ---
 
-## ** Project Structure**
+##  Project Structure
 
 ```
 src/
@@ -90,7 +90,7 @@ src/
 
 ---
 
-## ** Future Plans**
+## Future Plans
 
 * Full AI-powered incident verification
 * More sensor types (flooding, seismic, wind, humidity)
